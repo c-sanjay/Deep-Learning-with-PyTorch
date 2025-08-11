@@ -54,8 +54,9 @@ Change the dtype of `x` from `int32` to `int64`.
 Reshape `x` into a `3x2` tensor.
 
 ```python
-x=np.reshape(x,(3,2))
-print(x)
+x = torch.tensor(arr, dtype=torch.int64)
+x = x.reshape(3, 2)
+x
 ```
 
 ### Step 7:
@@ -69,7 +70,8 @@ right=print(x[:,1:])
 Without changing `x`, return a tensor of square values of `x`.
 
 ```python
-np.reshape(x**2,(3,2))
+squared_x = torch.square(x) 
+squared_x
 ```
 
 ### Step 9:
@@ -91,7 +93,9 @@ print(torch.mm(x,y))
 ## Output:
 i) Import and set up PyTorch and NumPy.
 
-![image](https://github.com/user-attachments/assets/6a6c8de4-370a-4094-9e1a-e8c094c3036e)
+<img width="360" height="99" alt="Screenshot 2025-08-11 225417" src="https://github.com/user-attachments/assets/d8464180-7ce0-426e-b298-5d8cc96622b4" />
+
+
 
 ii) Create and manipulate tensors.
 
