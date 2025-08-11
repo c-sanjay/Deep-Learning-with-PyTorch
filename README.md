@@ -99,23 +99,31 @@ i) Import and set up PyTorch and NumPy.
 
 ii) Create and manipulate tensors.
 
-![image](https://github.com/user-attachments/assets/40a4d58d-eb59-421d-acac-7432fe5fb6c0)
+<img width="292" height="104" alt="image" src="https://github.com/user-attachments/assets/d8484961-8ac8-4bb7-85f3-6ba09dcba339" />
 
-![image](https://github.com/user-attachments/assets/aaf8bd07-91e4-47e1-81a5-ee92ef45dd5a)
 
-![image](https://github.com/user-attachments/assets/b4faf9b5-b15a-43af-99a7-adcb3f93df81)
+<img width="309" height="94" alt="image" src="https://github.com/user-attachments/assets/be1b9dd5-9df2-4de6-bf7f-2d36a1f353d5" />
 
-![image](https://github.com/user-attachments/assets/9e8708f7-45ee-431f-be3b-34ee5c193108)
+
+<img width="441" height="95" alt="image" src="https://github.com/user-attachments/assets/c1321dc7-f9c1-4576-8a3b-80548c8b5182" />
+
+
+<img width="353" height="79" alt="image" src="https://github.com/user-attachments/assets/1613f9e5-5859-4916-82f3-ac6c5a4fe3b9" />
+
 
 iii) Perform matrix operations.
 
-![image](https://github.com/user-attachments/assets/5c402f88-ab43-4828-9f74-430a1645a850)
+<img width="384" height="166" alt="image" src="https://github.com/user-attachments/assets/b6d1fe49-9d56-4558-8d68-c0c91bea9903" />
 
-![image](https://github.com/user-attachments/assets/c7c547a7-cb27-48db-b13a-ea8ed109ec1c)
 
-![image](https://github.com/user-attachments/assets/4fbb9f83-754a-4307-9c59-5d940cea9331)
+<img width="222" height="113" alt="image" src="https://github.com/user-attachments/assets/a5f34554-155f-439b-92ed-559b1153f5e5" />
 
-![image](https://github.com/user-attachments/assets/bed85bdf-5b92-4385-bd00-239b8e643324)
+
+<img width="276" height="141" alt="image" src="https://github.com/user-attachments/assets/16545d27-6f86-4952-90c6-8ae2c7b03c45" />
+
+<img width="267" height="119" alt="image" src="https://github.com/user-attachments/assets/2521aff3-434b-4a83-a381-cdafe7d44a0f" />
+
+<img width="254" height="112" alt="image" src="https://github.com/user-attachments/assets/a8ff1fba-0783-4549-b6a7-600c357df005" />
 
 
 
